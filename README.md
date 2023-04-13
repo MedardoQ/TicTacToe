@@ -3,4 +3,5 @@ El tres en línea, también conocido como ceros y cruces, tres en raya (España,
 
 Una partida ganada por el primer jugador, X:
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/783px-Tic_tac_toe.svg.png
+
+![tres en raya](https://user-images.githubusercontent.com/83930353/231827703-e92312cf-e4c7-41f0-a30e-2907f061bd5a.jpg)
